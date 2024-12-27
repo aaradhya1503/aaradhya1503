@@ -1,3 +1,4 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayushi Kumari</h1>
 <h3 align="center">A BTech student passionate about coding & web developement from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/92/23/689223b7c3b904639f0cc05b970315f6.gif">
